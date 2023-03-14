@@ -1,4 +1,4 @@
-# Klassifizieren – Verknüpfen – Abbilden. Herausforderungen der digitalen Repräsentation hypertextueller Systeme am Beispiel des Klingentaler Jahrzeitenbuchs.
+# Klassifizieren – Verknüpfen – Abbilden. Herausforderungen der digitalen Repräsentation hypertextueller Systeme am Beispiel des Klingentaler Jahrzeitenbuchs H.
 
 Die vorliegende Masterarbeit wurde im Herbstsemester 2021 am Departement Geschichte der Universität Basel eingereicht. Dieses Repositorium enthält die folgenden Dateien:
 
